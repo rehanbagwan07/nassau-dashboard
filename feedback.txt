@@ -1,0 +1,22 @@
+Hi, I'm Rehan Bagwan. This is my Factory Reallocation and Shipping 
+Optimization project for Nassau Candy Distributor.
+
+Nassau Candy currently assigns products to factories using fixed, old 
+rules. My project looks at their real shipping data and recommends 
+better factory assignments to save on shipping time and cost.
+
+I built a dashboard where you can pick a product and see how it would 
+perform if shipped from each of the 5 factories - lead time, distance, 
+and profit margin. There's also a page comparing the current factory 
+vs my recommended one, a full list of 50 recommendations ranked by 
+impact, and a risk page that flags any recommendation that could hurt 
+profit margins.
+
+One thing I found while working on this - the Ship Date column in the 
+data didn't match up properly with Order Date, sometimes off by years. 
+Instead of ignoring it, I pointed this out in my research paper and 
+explained how it affects the results, and suggested the data should be 
+checked at the source.
+
+That's my project - a working dashboard plus a research paper and 
+executive summary explaining the analysis. Thanks for watching.
